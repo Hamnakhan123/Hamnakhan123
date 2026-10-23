@@ -46,7 +46,24 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hamnakhan123&bg_color=0D0B1A&color=E9E4FF&line=FF5FA2&point=5EEAD4&area=true&area_color=C084FC&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Activity graph"/>
+</div>
+
+<img src="./assets/charts.svg" width="100%" alt="Skills radar chart and tech distribution donut chart"/>
+
+<div align="center">
+
+### 📊 GitHub Analytics
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hamnakhan123&theme=radical" width="100%" alt="Profile details and contributions"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hamnakhan123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D0B1A&title_color=FF5FA2&icon_color=5EEAD4&text_color=E9E4FF&ring_color=C084FC" height="180" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hamnakhan123&layout=donut&hide_border=true&bg_color=0D0B1A&title_color=FF5FA2&text_color=E9E4FF" height="180" alt="Top languages"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hamnakhan123&theme=radical" width="32%" alt="Repos per language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hamnakhan123&theme=radical" width="32%" alt="Most commit language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hamnakhan123&theme=radical&utcOffset=5" width="32%" alt="Productive time"/>
+
+<img src="https://streak-stats.demolab.com?user=Hamnakhan123&hide_border=true&background=0D0B1A&ring=FF5FA2&fire=FBBF24&currStreakLabel=FF5FA2&sideLabels=E9E4FF&dates=9A92BF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=2A2347" width="70%" alt="GitHub streak"/>
 
 <img src="https://raw.githubusercontent.com/Hamnakhan123/Hamnakhan123/output/github-snake.svg" width="100%" alt="Contribution snake"/>
 
