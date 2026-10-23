@@ -16,9 +16,9 @@
 
 <img src="./assets/skills.svg" width="100%" alt="Skills: Web Design and Development, Data Structures, Software Engineering, Git and GitHub, Jira and Agile, Event Management"/>
 
+<img src="./assets/techstack.svg" width="100%" alt="Tech stack: Frontend HTML5, CSS3, JavaScript, TypeScript, React, Vite, Tailwind CSS, Bootstrap, Material UI. Backend Node.js, Express.js, REST APIs, JWT, PHP. Databases MongoDB, MySQL, Sequelize, Firebase, Firestore. Languages C++, Java, Python. Tools Git, GitHub, Jira, VS Code, Figma, Postman. Core CS Data Structures, Software Engineering, SDLC, UML, Agile Scrum"/>
+
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,express,mongodb,firebase,mysql,java,cpp,python,git,github,vscode,figma,postman&perline=10" alt="Tech stack"/>
-<br/><br/>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/Agile%20%2F%20Scrum-FF5FA2?style=flat-square"/>
 <img src="https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=flat-square&logo=git&logoColor=white"/>
