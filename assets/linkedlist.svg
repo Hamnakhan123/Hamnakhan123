@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FF5FA2"/><stop offset=".5" stop-color="#C084FC"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+<linearGradient id="gs" x1="0" x2="1"><stop offset="0" stop-color="#FF5FA2"/><stop offset=".33" stop-color="#C084FC"/><stop offset=".66" stop-color="#5EEAD4"/><stop offset="1" stop-color="#FF5FA2"/><animateTransform attributeName="gradientTransform" type="translate" values="-1 0;0 0" dur="4s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="glow" cx=".8" cy=".2" r=".6"><stop offset="0" stop-color="#C084FC" stop-opacity=".18"/><stop offset="1" stop-color="#C084FC" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx=".1" cy="1" r=".6"><stop offset="0" stop-color="#FF5FA2" stop-opacity=".14"/><stop offset="1" stop-color="#FF5FA2" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#C084FC"/></marker>
+<style>
+.mo{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace} .sa{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.in{animation:in .8s ease both} @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.3,1.6,.5,1) both} @keyframes pop{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:none}}
+.pu{animation:pu 2.2s ease-in-out infinite} @keyframes pu{50%{opacity:.3}}
+.blink{animation:bl 1s steps(1) infinite} @keyframes bl{50%{opacity:0}}
+.fl{animation:fl 4s ease-in-out infinite} @keyframes fl{50%{transform:translateY(-6px)}}
+
+</style></defs>
+<rect width="1200" height="350" rx="18" fill="#0D0B1A"/><rect width="1200" height="350" rx="18" fill="url(#grid)"/><rect width="1200" height="350" rx="18" fill="url(#glow)"/><rect width="1200" height="350" rx="18" fill="url(#glow2)"/>
+<text class="mo in" x="40" y="50" font-size="14" fill="#8B83B0">const journey = new LinkedList&lt;Milestone&gt;();</text><text class="sa in" x="40" y="82" font-size="26" font-weight="800" fill="#fff" style="animation-delay:.15s">My Journey, one node at a time</text><text class="mo in" x="40" y="148" font-size="13" fill="#FF5FA2">head ↓</text><g class="pop" style="animation-delay:0.30s"><rect x="40" y="170" width="190" height="96" rx="12" fill="#15112A" stroke="#FF5FA2" stroke-width="1.6"/>
+<line x1="190" y1="170" x2="190" y2="266" stroke="#FF5FA2" stroke-opacity=".6"/>
+<text class="sa" x="54" y="204" font-size="21" font-weight="800" fill="#FF5FA2">JUW</text>
+<text class="sa" x="54" y="228" font-size="12.5" font-weight="600" fill="#E9E4FF">BS Software Eng.</text>
+<text class="mo" x="54" y="250" font-size="11.5" fill="#8B83B0">graduated</text>
+<text class="mo" x="210" y="214" font-size="10" text-anchor="middle" fill="#8B83B0">next</text>
+<circle cx="210" cy="230" r="5" fill="#FF5FA2"/></g><path class="in" style="animation-delay:0.50s" d="M210 230 C240 230,250 218,266 218" fill="none" stroke="#C084FC" stroke-width="2" marker-end="url(#ar)"/><g class="pop" style="animation-delay:0.65s"><rect x="270" y="170" width="190" height="96" rx="12" fill="#15112A" stroke="#C084FC" stroke-width="1.6"/>
+<line x1="420" y1="170" x2="420" y2="266" stroke="#C084FC" stroke-opacity=".6"/>
+<text class="sa" x="284" y="204" font-size="21" font-weight="800" fill="#C084FC">10Pearls</text>
+<text class="sa" x="284" y="228" font-size="12.5" font-weight="600" fill="#E9E4FF">SHINE MERN Intern</text>
+<text class="mo" x="284" y="250" font-size="11.5" fill="#8B83B0">2025</text>
+<text class="mo" x="440" y="214" font-size="10" text-anchor="middle" fill="#8B83B0">next</text>
+<circle cx="440" cy="230" r="5" fill="#C084FC"/></g><path class="in" style="animation-delay:0.85s" d="M440 230 C470 230,480 218,496 218" fill="none" stroke="#C084FC" stroke-width="2" marker-end="url(#ar)"/><g class="pop" style="animation-delay:1.00s"><rect x="500" y="170" width="190" height="96" rx="12" fill="#15112A" stroke="#FBBF24" stroke-width="1.6"/>
+<line x1="650" y1="170" x2="650" y2="266" stroke="#FBBF24" stroke-opacity=".6"/>
+<text class="sa" x="514" y="204" font-size="21" font-weight="800" fill="#FBBF24">Aptech</text>
+<text class="sa" x="514" y="228" font-size="12.5" font-weight="600" fill="#E9E4FF">Faculty Member</text>
+<text class="mo" x="514" y="250" font-size="11.5" fill="#8B83B0">Web &amp; Programming</text>
+<text class="mo" x="670" y="214" font-size="10" text-anchor="middle" fill="#8B83B0">next</text>
+<circle cx="670" cy="230" r="5" fill="#FBBF24"/></g><path class="in" style="animation-delay:1.20s" d="M670 230 C700 230,710 218,726 218" fill="none" stroke="#C084FC" stroke-width="2" marker-end="url(#ar)"/><g class="pop" style="animation-delay:1.35s"><rect x="730" y="170" width="190" height="96" rx="12" fill="#15112A" stroke="#5EEAD4" stroke-width="1.6"/>
+<line x1="880" y1="170" x2="880" y2="266" stroke="#5EEAD4" stroke-opacity=".6"/>
+<text class="sa" x="744" y="204" font-size="21" font-weight="800" fill="#5EEAD4">IoBM</text>
+<text class="sa" x="744" y="228" font-size="12.5" font-weight="600" fill="#E9E4FF">Lecturer</text>
+<text class="mo" x="744" y="250" font-size="11.5" fill="#8B83B0">2026 → now</text>
+<text class="mo" x="900" y="214" font-size="10" text-anchor="middle" fill="#8B83B0">next</text>
+<circle cx="900" cy="230" r="5" fill="#5EEAD4"/></g><path class="in" style="animation-delay:1.55s" d="M900 230 C930 230,940 218,956 218" fill="none" stroke="#C084FC" stroke-width="2" marker-end="url(#ar)"/><g class="pop" style="animation-delay:1.70s"><rect x="960" y="170" width="190" height="96" rx="12" fill="#15112A" stroke="#7DD3FC" stroke-width="1.6"/>
+<line x1="1110" y1="170" x2="1110" y2="266" stroke="#7DD3FC" stroke-opacity=".6"/>
+<text class="sa" x="974" y="204" font-size="21" font-weight="800" fill="#7DD3FC">NED</text>
+<text class="sa" x="974" y="228" font-size="12.5" font-weight="600" fill="#E9E4FF">Master's</text>
+<text class="mo" x="974" y="250" font-size="11.5" fill="#8B83B0">in progress</text>
+<text class="mo" x="1130" y="214" font-size="10" text-anchor="middle" fill="#8B83B0">next</text>
+<circle cx="1130" cy="230" r="5" fill="#7DD3FC"/></g><path d="M1130 230 L1130 300" stroke="#C084FC" stroke-width="2" marker-end="url(#ar)" class="in" style="animation-delay:2.2s"/><text class="mo in" x="1150" y="318" font-size="13" text-anchor="end" fill="#8B83B0" style="animation-delay:2.3s">null // future loading…</text><path d="M135.0 282 L365.0 282 L595.0 282 L825.0 282 L1055.0 282" stroke="#2A2347" stroke-width="2" stroke-dasharray="4 6" fill="none"/><circle r="6" fill="#FF5FA2"><animateMotion dur="6s" repeatCount="indefinite" path="M135.0 282 L365.0 282 L595.0 282 L825.0 282 L1055.0 282"/></circle><text class="mo" x="40" y="330" font-size="13" fill="#8B83B0">// traversal: O(n) · growth: O(∞)</text>
+<rect x=".75" y=".75" width="1198.5" height="348.5" rx="17.5" fill="none" stroke="url(#g)" stroke-opacity=".45" stroke-width="1.5"/>
+</svg>
