@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FF5FA2"/><stop offset=".5" stop-color="#C084FC"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+<linearGradient id="gs" x1="0" x2="1"><stop offset="0" stop-color="#FF5FA2"/><stop offset=".33" stop-color="#C084FC"/><stop offset=".66" stop-color="#5EEAD4"/><stop offset="1" stop-color="#FF5FA2"/><animateTransform attributeName="gradientTransform" type="translate" values="-1 0;0 0" dur="4s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="glow" cx=".8" cy=".2" r=".6"><stop offset="0" stop-color="#C084FC" stop-opacity=".18"/><stop offset="1" stop-color="#C084FC" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx=".1" cy="1" r=".6"><stop offset="0" stop-color="#FF5FA2" stop-opacity=".14"/><stop offset="1" stop-color="#FF5FA2" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#C084FC"/></marker>
+<style>
+.mo{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace} .sa{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.in{animation:in .8s ease both} @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.3,1.6,.5,1) both} @keyframes pop{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:none}}
+.pu{animation:pu 2.2s ease-in-out infinite} @keyframes pu{50%{opacity:.3}}
+.blink{animation:bl 1s steps(1) infinite} @keyframes bl{50%{opacity:0}}
+.fl{animation:fl 4s ease-in-out infinite} @keyframes fl{50%{transform:translateY(-6px)}}
+.mainl{stroke-dasharray:1080;animation:dm 2s ease both}@keyframes dm{from{stroke-dashoffset:1080}to{stroke-dashoffset:0}}
+</style></defs>
+<rect width="1200" height="400" rx="18" fill="#0D0B1A"/><rect width="1200" height="400" rx="18" fill="url(#grid)"/><rect width="1200" height="400" rx="18" fill="url(#glow)"/><rect width="1200" height="400" rx="18" fill="url(#glow2)"/>
+<text class="mo in" x="40" y="50" font-size="14" fill="#8B83B0">git log --graph --all --projects</text><text class="sa in" x="40" y="82" font-size="26" font-weight="800" fill="#fff" style="animation-delay:.15s">Projects, Branch by Branch</text><line x1="60" y1="150" x2="1140" y2="150" stroke="#FF5FA2" stroke-width="4" stroke-linecap="round" class="mainl"/><text class="mo" x="60" y="134" font-size="13" fill="#FF5FA2">main</text><g class="in" style="animation-delay:0.40s"><path d="M100 150 C100 250,100 250,150 250 L280 250 C330 250,330 250,330 150" fill="none" stroke="#C084FC" stroke-width="3"/>
+<circle cx="100" cy="150" r="8" fill="#0D0B1A" stroke="#FF5FA2" stroke-width="3"/>
+<circle cx="155.0" cy="250" r="7" fill="#C084FC"/><circle cx="215.0" cy="250" r="7" fill="#C084FC"/><circle cx="275.0" cy="250" r="7" fill="#C084FC"/>
+<circle cx="330" cy="150" r="10" fill="#C084FC"/><circle cx="330" cy="150" r="16" fill="none" stroke="#C084FC" class="pu"/>
+<text class="mo" x="112" y="236" font-size="13.5" font-weight="700" fill="#C084FC">feature/saya-e-falah-user</text>
+<text class="sa" x="112" y="278" font-size="13" fill="#8B83B0">React · TS · Tailwind · Firebase</text>
+<rect x="296" y="104" width="68" height="22" rx="11" fill="#C084FC" fill-opacity=".16" stroke="#C084FC"/><text class="mo" x="330" y="119" font-size="11" font-weight="700" text-anchor="middle" fill="#C084FC">v1.0 LIVE</text></g><g class="in" style="animation-delay:0.80s"><path d="M360 150 C360 330,360 330,410 330 L540 330 C590 330,590 330,590 150" fill="none" stroke="#5EEAD4" stroke-width="3"/>
+<circle cx="360" cy="150" r="8" fill="#0D0B1A" stroke="#FF5FA2" stroke-width="3"/>
+<circle cx="415.0" cy="330" r="7" fill="#5EEAD4"/><circle cx="475.0" cy="330" r="7" fill="#5EEAD4"/><circle cx="535.0" cy="330" r="7" fill="#5EEAD4"/>
+<circle cx="590" cy="150" r="10" fill="#5EEAD4"/><circle cx="590" cy="150" r="16" fill="none" stroke="#5EEAD4" class="pu"/>
+<text class="mo" x="372" y="316" font-size="13.5" font-weight="700" fill="#5EEAD4">feature/saya-e-falah-admin</text>
+<text class="sa" x="372" y="358" font-size="13" fill="#8B83B0">React · Vite · Firestore · Auth</text>
+<rect x="556" y="104" width="68" height="22" rx="11" fill="#5EEAD4" fill-opacity=".16" stroke="#5EEAD4"/><text class="mo" x="590" y="119" font-size="11" font-weight="700" text-anchor="middle" fill="#5EEAD4">FYP</text></g><g class="in" style="animation-delay:1.20s"><path d="M620 150 C620 250,620 250,670 250 L800 250 C850 250,850 250,850 150" fill="none" stroke="#FBBF24" stroke-width="3"/>
+<circle cx="620" cy="150" r="8" fill="#0D0B1A" stroke="#FF5FA2" stroke-width="3"/>
+<circle cx="675.0" cy="250" r="7" fill="#FBBF24"/><circle cx="735.0" cy="250" r="7" fill="#FBBF24"/><circle cx="795.0" cy="250" r="7" fill="#FBBF24"/>
+<circle cx="850" cy="150" r="10" fill="#FBBF24"/><circle cx="850" cy="150" r="16" fill="none" stroke="#FBBF24" class="pu"/>
+<text class="mo" x="632" y="236" font-size="13.5" font-weight="700" fill="#FBBF24">internship/mern-10pshine</text>
+<text class="sa" x="632" y="278" font-size="13" fill="#8B83B0">MongoDB · Express · React · Node</text>
+<rect x="816" y="104" width="68" height="22" rx="11" fill="#FBBF24" fill-opacity=".16" stroke="#FBBF24"/><text class="mo" x="850" y="119" font-size="11" font-weight="700" text-anchor="middle" fill="#FBBF24">2025</text></g><g class="in" style="animation-delay:1.60s"><path d="M880 150 C880 330,880 330,930 330 L1060 330 C1110 330,1110 330,1110 150" fill="none" stroke="#7DD3FC" stroke-width="3"/>
+<circle cx="880" cy="150" r="8" fill="#0D0B1A" stroke="#FF5FA2" stroke-width="3"/>
+<circle cx="935.0" cy="330" r="7" fill="#7DD3FC"/><circle cx="995.0" cy="330" r="7" fill="#7DD3FC"/><circle cx="1055.0" cy="330" r="7" fill="#7DD3FC"/>
+<circle cx="1110" cy="150" r="10" fill="#7DD3FC"/><circle cx="1110" cy="150" r="16" fill="none" stroke="#7DD3FC" class="pu"/>
+<text class="mo" x="892" y="316" font-size="13.5" font-weight="700" fill="#7DD3FC">explore/python-games</text>
+<text class="sa" x="892" y="358" font-size="13" fill="#8B83B0">Python · Pygame · Pymunk (fork)</text>
+<rect x="1076" y="104" width="68" height="22" rx="11" fill="#7DD3FC" fill-opacity=".16" stroke="#7DD3FC"/><text class="mo" x="1110" y="119" font-size="11" font-weight="700" text-anchor="middle" fill="#7DD3FC">fun</text></g><circle r="6" fill="#fff"><animateMotion dur="5s" repeatCount="indefinite" path="M60 150 L1140 150"/></circle><text class="mo" x="1140" y="385" font-size="12" text-anchor="end" fill="#8B83B0">HEAD → your project next?</text>
+<rect x=".75" y=".75" width="1198.5" height="398.5" rx="17.5" fill="none" stroke="url(#g)" stroke-opacity=".45" stroke-width="1.5"/>
+</svg>
