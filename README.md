@@ -44,10 +44,6 @@
 
 <img src="./assets/events.svg" width="100%" alt="Event Manager and Organizer"/>
 
-<div align="center">
-
-</div>
-
 <img src="./assets/charts.svg" width="100%" alt="Skills radar chart and tech distribution donut chart"/>
 
 <div align="center">
