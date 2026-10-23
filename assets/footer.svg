@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190">
+<defs>
+<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#FF5FA2"/><stop offset=".5" stop-color="#C084FC"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+<linearGradient id="gs" x1="0" x2="1"><stop offset="0" stop-color="#FF5FA2"/><stop offset=".33" stop-color="#C084FC"/><stop offset=".66" stop-color="#5EEAD4"/><stop offset="1" stop-color="#FF5FA2"/><animateTransform attributeName="gradientTransform" type="translate" values="-1 0;0 0" dur="4s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="glow" cx=".8" cy=".2" r=".6"><stop offset="0" stop-color="#C084FC" stop-opacity=".18"/><stop offset="1" stop-color="#C084FC" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow2" cx=".1" cy="1" r=".6"><stop offset="0" stop-color="#FF5FA2" stop-opacity=".14"/><stop offset="1" stop-color="#FF5FA2" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#fff" stroke-opacity=".035"/></pattern>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#C084FC"/></marker>
+<style>
+.mo{font-family:'JetBrains Mono','Fira Code',Consolas,Menlo,'DejaVu Sans Mono',monospace} .sa{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+.in{animation:in .8s ease both} @keyframes in{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.3,1.6,.5,1) both} @keyframes pop{from{opacity:0;transform:scale(.3)}to{opacity:1;transform:none}}
+.pu{animation:pu 2.2s ease-in-out infinite} @keyframes pu{50%{opacity:.3}}
+.blink{animation:bl 1s steps(1) infinite} @keyframes bl{50%{opacity:0}}
+.fl{animation:fl 4s ease-in-out infinite} @keyframes fl{50%{transform:translateY(-6px)}}
+
+</style></defs>
+<rect width="1200" height="190" rx="18" fill="#0D0B1A"/><rect width="1200" height="190" rx="18" fill="url(#grid)"/><rect width="1200" height="190" rx="18" fill="url(#glow)"/><rect width="1200" height="190" rx="18" fill="url(#glow2)"/>
+<text class="mo" x="290" y="70" font-size="20" xml:space="preserve"><tspan fill="#C084FC">while</tspan><tspan fill="#E9E4FF"> (</tspan><tspan fill="#FBBF24">true</tspan><tspan fill="#E9E4FF">) { </tspan><tspan fill="#7DD3FC">learn</tspan><tspan fill="#E9E4FF">(); </tspan><tspan fill="#7DD3FC">teach</tspan><tspan fill="#E9E4FF">(); </tspan><tspan fill="#7DD3FC">build</tspan><tspan fill="#E9E4FF">(); </tspan><tspan fill="#7DD3FC">inspire</tspan><tspan fill="#E9E4FF">(); }</tspan></text>
+<text class="sa" x="600" y="122" font-size="30" font-weight="900" text-anchor="middle" fill="url(#gs)">Thanks for visiting. Let's create something amazing.</text>
+<text class="mo" x="600" y="158" font-size="13" text-anchor="middle" fill="#8B83B0">// return hamna.connect();</text>
+<rect x=".75" y=".75" width="1198.5" height="188.5" rx="17.5" fill="none" stroke="url(#g)" stroke-opacity=".45" stroke-width="1.5"/>
+</svg>
