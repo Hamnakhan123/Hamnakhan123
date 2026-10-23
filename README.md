@@ -6,6 +6,8 @@
 [![Email](https://img.shields.io/badge/Email-Say%20Hello-C084FC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamnazahidkhan@gmail.com)
 [![IoBM](https://img.shields.io/badge/Lecturer-IoBM-5EEAD4?style=for-the-badge&logo=googlescholar&logoColor=black)](https://www.iobm.edu.pk/)
 
+📧 **[hamnazahidkhan@gmail.com](mailto:hamnazahidkhan@gmail.com)** &nbsp;·&nbsp; 📍 Karachi, Pakistan &nbsp;·&nbsp; 🌐 **[Live Portfolio](https://hamnakhan123.github.io/Hamna_Portfolio/)**
+
 <img src="./assets/roles.svg" width="100%" alt="Software Engineer, Lecturer, Web Developer, Event Organizer"/>
 
 </div>
@@ -35,7 +37,7 @@
 |:--|:--|:--|
 | **Saya-e-Falah · User Panel** (FYP) | React · TypeScript · Tailwind · Firebase | [Live](https://saya-e-falah.web.app/) · [Code](https://github.com/Hamnakhan123/saya-e-falah_userpanel) |
 | **Saya-e-Falah · Admin Panel** (FYP) | React · Vite · Firestore | [Code](https://github.com/Hamnakhan123/saya-e-falah_adminpanel) |
-| **MERN Project** (10Pearls SHINE) | MongoDB · Express · React · Node | [Code](https://github.com/Hamnakhan123/HamnaZahid-mern-10Pshine) |
+| **Full Stack Notes App** (10Pearls SHINE) | React · Node · Express · MySQL · JWT | [Code](https://github.com/Hamnakhan123/HamnaZahid-mern-10Pshine) |
 | **Personal Portfolio** | HTML · CSS · JavaScript · GitHub API | [Live](https://hamnakhan123.github.io/Hamna_Portfolio/) · [Code](https://github.com/Hamnakhan123/Hamna_Portfolio) |
 
 </div>
