@@ -13,6 +13,7 @@
 
 <a href="#faculty"><img src="https://img.shields.io/badge/Faculty-150F2A?style=for-the-badge&logo=googleclassroom&logoColor=FF6B1A" alt="Faculty"/></a>
 <a href="#teaching"><img src="https://img.shields.io/badge/Teaching-150F2A?style=for-the-badge&logo=bookstack&logoColor=FCD34D" alt="Teaching"/></a>
+<a href="#courses"><img src="https://img.shields.io/badge/Courses-150F2A?style=for-the-badge&logo=readthedocs&logoColor=F43F5E" alt="Courses"/></a>
 <a href="#projects"><img src="https://img.shields.io/badge/Projects-150F2A?style=for-the-badge&logo=rocket&logoColor=A78BFA" alt="Projects"/></a>
 <a href="#toolkit"><img src="https://img.shields.io/badge/Toolkit-150F2A?style=for-the-badge&logo=visualstudiocode&logoColor=FF6B1A" alt="Toolkit"/></a>
 <a href="#dashboard"><img src="https://img.shields.io/badge/Dashboard-150F2A?style=for-the-badge&logo=githubactions&logoColor=FCD34D" alt="Dashboard"/></a>
@@ -33,6 +34,24 @@
 <img src="./assets/philosophy.svg" width="100%" alt="Teaching philosophy: Light the spark, then let students aim their own arrows"/>
 
 <img src="./assets/courses.svg" width="100%" alt="Courses taught: Data Structures, Programming Fundamentals, ICT, Web Development, Software Engineering, Git and Version Control"/>
+
+<a name="courses"></a>
+<img src="./assets/h-courses.svg" width="100%" alt="Open Course Library"/>
+
+<div align="center">
+
+| | Course | What students learn | Study |
+|:--:|:--|:--|:--:|
+| 🤖 | **Prime AI · Software Engineering with AI**<br/><sub>6 terms · web to full-stack to AI</sub> | HTML/CSS/JS, Git, PHP & Laravel, MySQL, C# & .NET, React, Node, MongoDB, Azure, Flutter, NLP | [Open](https://github.com/Hamnakhan123/Prime-AI-7144) |
+| 🧠 | **Diploma in AI**<br/><sub>2 terms</sub> | Python, T-SQL, statistics, MongoDB, machine learning, NLP, deep learning, computer vision | [Open](https://github.com/Hamnakhan123/Diploma-in-AI) |
+| 📊 | **Diploma in Data Science**<br/><sub>2 terms</sub> | Python data science, statistics, WEKA, Hadoop, data lakes, reinforcement learning, Tableau | [Open](https://github.com/Hamnakhan123/Diploma-in-Data-Science) |
+| 🛡️ | **Cybersecurity & Digital Forensics**<br/><sub>2 terms</sub> | C, networks, security frameworks, ethical hacking, cryptography, incident response, forensics | [Open](https://github.com/Hamnakhan123/Cybersecurity-and-Digital-Forensics) |
+| 📈 | **Diploma in Digital Marketing**<br/><sub>2 terms</sub> | SEO, paid ads, social & email marketing, analytics, automation, AI marketing, ethics | [Open](https://github.com/Hamnakhan123/Diploma-in-Digital-Marketing) |
+| ✨ | **Generative AI**<br/><sub>5 tracks</sub> | Prompt engineering, Gen AI tools, AI agents & architecture, low-code app development | [Open](https://github.com/Hamnakhan123/Generative-AI) |
+
+<sub>Every session has concepts, diagrams, working code with output, labs and a quiz, in learning order.</sub>
+
+</div>
 
 <img src="./assets/h-journey.svg" width="100%" alt="Academic and Professional Path"/>
 
