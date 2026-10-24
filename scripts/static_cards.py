@@ -20,6 +20,7 @@ def icon(name, x, y, k=1.0, c=GOLD, sw=1.8):
 HEADERS = [
     ("faculty", "cap", "Faculty Profile", "Junior Lecturer · Institute of Business Management"),
     ("teaching", "book", "Teaching", "Courses, labs and how I teach"),
+    ("courses", "book", "Open Course Library", "Free, session-wise study material for students"),
     ("journey", "path", "Academic & Professional Path", "Every step that shaped me"),
     ("expertise", "spark", "Expertise", "Where engineering meets education"),
     ("stack", "code", "Technical Toolkit", "What I build and teach with"),
