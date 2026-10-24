@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+<defs>
+<radialGradient id="bg" cx="50%" cy="42%" r="70%"><stop offset="0" stop-color="#2A1650"/><stop offset=".55" stop-color="#140B2C"/><stop offset="1" stop-color="#0A0716"/></radialGradient>
+<radialGradient id="glow" cx="50%" cy="100%" r="60%"><stop offset="0" stop-color="#FF6B1A" stop-opacity=".55"/><stop offset="1" stop-color="#FF6B1A" stop-opacity="0"/></radialGradient>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FF6B1A"/><stop offset=".45" stop-color="#FCD34D"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+<linearGradient id="txt" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FCD34D"/><stop offset=".5" stop-color="#FF6B1A"/><stop offset="1" stop-color="#F43F5E"/></linearGradient>
+<linearGradient id="arrow" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#FF6B1A"/><stop offset="1" stop-color="#FCD34D"/></linearGradient>
+<filter id="soft"><feGaussianBlur stdDeviation="6"/></filter>
+</defs>
+<rect width="1000" height="1000" fill="url(#bg)"/>
+<ellipse cx="500" cy="1000" rx="600" ry="420" fill="url(#glow)"/>
+<g fill="#fff">
+<circle cx="140" cy="170" r="3" opacity=".8"/><circle cx="830" cy="140" r="2.5" opacity=".7"/><circle cx="880" cy="380" r="2" opacity=".6"/>
+<circle cx="110" cy="460" r="2" opacity=".6"/><circle cx="220" cy="300" r="1.6" opacity=".5"/><circle cx="760" cy="250" r="1.6" opacity=".5"/>
+<circle cx="300" cy="120" r="2" opacity=".6"/><circle cx="660" cy="90" r="1.8" opacity=".6"/><circle cx="900" cy="600" r="2" opacity=".5"/><circle cx="90" cy="650" r="2.2" opacity=".5"/>
+</g>
+<!-- Sagittarius constellation (teapot) faint -->
+
+<!-- ring -->
+<circle cx="500" cy="500" r="410" fill="#120A26" fill-opacity=".85"/>
+<circle cx="500" cy="500" r="410" fill="none" stroke="url(#ring)" stroke-width="14" filter="url(#soft)" opacity=".7"/>
+<circle cx="500" cy="500" r="410" fill="none" stroke="url(#ring)" stroke-width="10"/>
+<circle cx="500" cy="500" r="372" fill="none" stroke="#A78BFA" stroke-opacity=".3" stroke-width="2" stroke-dasharray="4 14"/>
+<g transform="translate(130,40)"><g stroke="#A78BFA" stroke-opacity=".55" stroke-width="2.5" fill="none"><path d="M170 250 L240 210 L300 240 L280 300 L200 310 Z M300 240 L350 200"/></g>
+<g fill="#C4B5FD"><circle cx="170" cy="250" r="5"/><circle cx="240" cy="210" r="5"/><circle cx="300" cy="240" r="6"/><circle cx="280" cy="300" r="5"/><circle cx="200" cy="310" r="5"/><circle cx="350" cy="200" r="4"/></g></g>
+<!-- arrow crossing -->
+<g stroke="url(#arrow)" stroke-linecap="round" stroke-linejoin="round" fill="none">
+<path d="M250 750 L740 260" stroke-width="16"/>
+<path d="M625 260 H740 V375" stroke-width="16"/>
+<path d="M285 640 L360 715 M250 675 L325 750" stroke-width="12" opacity=".9"/>
+</g>
+<circle cx="740" cy="260" r="26" fill="#FCD34D" filter="url(#soft)" opacity=".8"/>
+<!-- monogram -->
+<text x="500" y="560" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="900" font-size="230" letter-spacing="-6" fill="url(#txt)" stroke="#0A0716" stroke-width="6" paint-order="stroke">HZ</text>
+<text x="500" y="690" text-anchor="middle" font-family="DejaVu Sans, Arial, sans-serif" font-weight="700" font-size="36" letter-spacing="10" fill="#F5EEFF" opacity=".9">LECTURER</text>
+<!-- flame -->
+<g transform="translate(500,830)">
+<path d="M0 -70 C40 -30 50 0 30 30 C20 50 -20 50 -30 30 C-50 0 -30 -20 -10 -40 C-5 -20 5 -15 10 -10 C15 -30 10 -50 0 -70 Z" fill="#FF6B1A"/>
+<path d="M2 -25 C20 -5 22 12 12 26 C5 34 -8 34 -14 24 C-22 10 -10 -2 2 -25 Z" fill="#FCD34D"/>
+</g>
+</svg>
