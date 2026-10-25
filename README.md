@@ -99,7 +99,7 @@
 <div align="center">
 
 <!--QUOTE:START-->
-> “Adventure is the archer's compass: explore one new tech every week.” ✨
+> “Talk is cheap. Show me the code.” — Linus Torvalds
 <!--QUOTE:END-->
 
 </div>
@@ -114,11 +114,11 @@
 <br/>
 
 <!--ACTIVITY:START-->
-🔥 Pushed 1 commit to [Diploma-in-Data-Science](https://github.com/Hamnakhan123/Diploma-in-Data-Science) · <sub>1d ago</sub><br/>
-🔥 Pushed 1 commit to [Diploma-in-Data-Science](https://github.com/Hamnakhan123/Diploma-in-Data-Science) · <sub>1d ago</sub><br/>
 🔥 Pushed 1 commit to [Diploma-in-AI](https://github.com/Hamnakhan123/Diploma-in-AI) · <sub>1d ago</sub><br/>
-🔥 Pushed 1 commit to [Diploma-in-AI](https://github.com/Hamnakhan123/Diploma-in-AI) · <sub>1d ago</sub><br/>
-🔥 Pushed 1 commit to [Diploma-in-AI](https://github.com/Hamnakhan123/Diploma-in-AI) · <sub>1d ago</sub>
+🔥 Pushed 1 commit to [Cybersecurity-and-Digital-Forensics](https://github.com/Hamnakhan123/Cybersecurity-and-Digital-Forensics) · <sub>1d ago</sub><br/>
+🔥 Pushed 1 commit to [Prime-AI-7144](https://github.com/Hamnakhan123/Prime-AI-7144) · <sub>1d ago</sub><br/>
+🔥 Pushed 1 commit to [Diploma-in-Data-Science](https://github.com/Hamnakhan123/Diploma-in-Data-Science) · <sub>1d ago</sub><br/>
+🔥 Pushed 1 commit to [Diploma-in-Digital-Marketing](https://github.com/Hamnakhan123/Diploma-in-Digital-Marketing) · <sub>1d ago</sub>
 <!--ACTIVITY:END-->
 
 </details>
@@ -149,7 +149,7 @@
 <sub>Students and collaborators are always welcome to reach out. 🏹</sub>
 
 <!--UPDATED:START-->
-<sub>🔄 Auto-updated by GitHub Actions · 25 Oct 2026, 08:22 PM PKT</sub>
+<sub>🔄 Auto-updated by GitHub Actions · 26 Oct 2026, 01:14 AM PKT</sub>
 <!--UPDATED:END-->
 
 <img src="https://komarev.com/ghpvc/?username=Hamnakhan123&style=flat-square&color=FF6B1A&label=visitors" alt="Visitors"/>
