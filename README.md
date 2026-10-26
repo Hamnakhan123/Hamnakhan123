@@ -48,8 +48,9 @@
 | 🛡️ | **Cybersecurity & Digital Forensics**<br/><sub>2 terms</sub> | C, networks, security frameworks, ethical hacking, cryptography, incident response, forensics | [Open](https://github.com/Hamnakhan123/Cybersecurity-and-Digital-Forensics) |
 | 📈 | **Diploma in Digital Marketing**<br/><sub>2 terms</sub> | SEO, paid ads, social & email marketing, analytics, automation, AI marketing, ethics | [Open](https://github.com/Hamnakhan123/Diploma-in-Digital-Marketing) |
 | ✨ | **Generative AI**<br/><sub>5 tracks</sub> | Prompt engineering, Gen AI tools, AI agents & architecture, low-code app development | [Open](https://github.com/Hamnakhan123/Generative-AI) |
+| ☕ | **Data Structures & Algorithms in Java**<br/><sub>17 modules + capstone · ✅ complete</sub> | Complexity, arrays, sorting, linked lists, stacks, queues, hashing, trees, AVL, heaps, graphs, tries, backtracking, greedy, DP, interview patterns | [Open](https://github.com/Hamnakhan123/Data-Structure-and-Algorithms) |
 
-<sub>Every session has concepts, diagrams, working code with output, labs and a quiz, in learning order.</sub>
+<sub>Every session has concepts, diagrams, working code with real output, notebooks, labs with solutions, a quiz and viva questions, in learning order. New modules are added every week.</sub>
 
 </div>
 
