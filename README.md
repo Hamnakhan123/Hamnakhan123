@@ -100,7 +100,7 @@
 <div align="center">
 
 <!--QUOTE:START-->
-> “Every expert was once a beginner. Keep shooting arrows.” 🏹
+> “Make it work, make it right, make it fast.” — Kent Beck
 <!--QUOTE:END-->
 
 </div>
@@ -150,7 +150,7 @@
 <sub>Students and collaborators are always welcome to reach out. 🏹</sub>
 
 <!--UPDATED:START-->
-<sub>🔄 Auto-updated by GitHub Actions · 02 Nov 2026, 07:26 PM PKT</sub>
+<sub>🔄 Auto-updated by GitHub Actions · 03 Nov 2026, 05:17 AM PKT</sub>
 <!--UPDATED:END-->
 
 <img src="https://komarev.com/ghpvc/?username=Hamnakhan123&style=flat-square&color=FF6B1A&label=visitors" alt="Visitors"/>
