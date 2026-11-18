@@ -100,7 +100,7 @@
 <div align="center">
 
 <!--QUOTE:START-->
-> “Jupiter teaches that knowledge only grows when it is shared.” 🪐
+> “The best way to learn is to teach.” — Frank Oppenheimer
 <!--QUOTE:END-->
 
 </div>
@@ -150,7 +150,7 @@
 <sub>Students and collaborators are always welcome to reach out. 🏹</sub>
 
 <!--UPDATED:START-->
-<sub>🔄 Auto-updated by GitHub Actions · 18 Nov 2026, 07:54 PM PKT</sub>
+<sub>🔄 Auto-updated by GitHub Actions · 19 Nov 2026, 04:45 AM PKT</sub>
 <!--UPDATED:END-->
 
 <img src="https://komarev.com/ghpvc/?username=Hamnakhan123&style=flat-square&color=FF6B1A&label=visitors" alt="Visitors"/>
