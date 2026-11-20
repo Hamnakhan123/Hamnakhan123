@@ -100,7 +100,7 @@
 <div align="center">
 
 <!--QUOTE:START-->
-> “The best way to learn is to teach.” — Frank Oppenheimer
+> “First, solve the problem. Then, write the code.” — John Johnson
 <!--QUOTE:END-->
 
 </div>
@@ -150,7 +150,7 @@
 <sub>Students and collaborators are always welcome to reach out. 🏹</sub>
 
 <!--UPDATED:START-->
-<sub>🔄 Auto-updated by GitHub Actions · 19 Nov 2026, 08:00 PM PKT</sub>
+<sub>🔄 Auto-updated by GitHub Actions · 20 Nov 2026, 05:06 AM PKT</sub>
 <!--UPDATED:END-->
 
 <img src="https://komarev.com/ghpvc/?username=Hamnakhan123&style=flat-square&color=FF6B1A&label=visitors" alt="Visitors"/>
