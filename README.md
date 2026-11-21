@@ -100,7 +100,7 @@
 <div align="center">
 
 <!--QUOTE:START-->
-> “Simplicity is the soul of efficiency.” — Austin Freeman
+> “Every expert was once a beginner. Keep shooting arrows.” 🏹
 <!--QUOTE:END-->
 
 </div>
@@ -150,7 +150,7 @@
 <sub>Students and collaborators are always welcome to reach out. 🏹</sub>
 
 <!--UPDATED:START-->
-<sub>🔄 Auto-updated by GitHub Actions · 21 Nov 2026, 06:58 PM PKT</sub>
+<sub>🔄 Auto-updated by GitHub Actions · 22 Nov 2026, 03:39 AM PKT</sub>
 <!--UPDATED:END-->
 
 <img src="https://komarev.com/ghpvc/?username=Hamnakhan123&style=flat-square&color=FF6B1A&label=visitors" alt="Visitors"/>
