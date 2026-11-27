@@ -100,7 +100,7 @@
 <div align="center">
 
 <!--QUOTE:START-->
-> “Aim for the stars; even an arrow that falls short lands among them.” ♐
+> “Code is fire: handle it with passion, shape it with patience.” 🔥
 <!--QUOTE:END-->
 
 </div>
@@ -150,7 +150,7 @@
 <sub>Students and collaborators are always welcome to reach out. 🏹</sub>
 
 <!--UPDATED:START-->
-<sub>🔄 Auto-updated by GitHub Actions · 26 Nov 2026, 09:09 PM PKT</sub>
+<sub>🔄 Auto-updated by GitHub Actions · 27 Nov 2026, 06:22 AM PKT</sub>
 <!--UPDATED:END-->
 
 <img src="https://komarev.com/ghpvc/?username=Hamnakhan123&style=flat-square&color=FF6B1A&label=visitors" alt="Visitors"/>
